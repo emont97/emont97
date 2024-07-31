@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
- 🔭 I’m currently working on my soft skills<br>- 🌱 I’m currently learning bootstrap, HTML and CSS<br>- 👯 I’m looking to collaborate on new dev projects<br>- 📫 How to reach me: emontoyac97@gmail.com
+ 🔭 I’m currently working on my soft skills<br>- 🌱 I’m currently learning bootstrap, HTML and CSS<br>- 👯 I’m looking to collaborate on new dev projects <--<br>- 📫 How to reach me: emontoyac97@gmail.com -->
 
 
 ## 🌐 Socials:
